@@ -26,6 +26,9 @@ namespace AottgBotApi.Data
             {
                 "Japan", PhotonRegion.Japan
             },
+            {
+                "SA", PhotonRegion.SA
+            },
         };
 
         /// <summary>

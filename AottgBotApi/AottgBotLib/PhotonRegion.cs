@@ -8,6 +8,7 @@
         Europe,
         USA,
         Asia,
-        Japan
+        Japan,
+        SA
     }
 }
