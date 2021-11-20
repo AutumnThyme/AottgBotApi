@@ -24,9 +24,6 @@ namespace AottgBotApi.Data
                 "Asia", PhotonRegion.Asia
             },
             {
-                "Japan", PhotonRegion.Japan
-            },
-            {
                 "SA", PhotonRegion.SA
             },
         };

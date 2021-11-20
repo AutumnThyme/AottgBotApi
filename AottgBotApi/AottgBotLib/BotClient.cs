@@ -326,7 +326,6 @@ namespace AottgBotLib
                         {
                             PhotonRegion.Europe => "135.125.239.180",
                             PhotonRegion.Asia => "51.79.164.137",
-                            PhotonRegion.Japan => "135.125.239.180",
                             PhotonRegion.USA => "142.44.242.29",
                             PhotonRegion.SA => "172.107.193.233",
                             _ => throw new NotSupportedException(Region.ToString()),
@@ -345,7 +344,6 @@ namespace AottgBotLib
                 {
                     PhotonRegion.Europe => "eu",
                     PhotonRegion.Asia => "asia",
-                    PhotonRegion.Japan => "jp",
                     PhotonRegion.USA => "us",
                     PhotonRegion.SA => "sa",
                     _ => throw new NotSupportedException(Region.ToString()),
