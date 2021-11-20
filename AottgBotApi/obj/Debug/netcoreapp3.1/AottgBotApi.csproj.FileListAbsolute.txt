@@ -1,8 +1,3 @@
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.csprojAssemblyReference.cache
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.AssemblyInfoInputs.cache
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.AssemblyInfo.cs
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.csproj.CoreCompileInputs.cache
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\AottgBotApi.exe
@@ -11,10 +6,18 @@ C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\Ao
 C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\AottgBotApi.runtimeconfig.dev.json
 C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\AottgBotApi.dll
 C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\AottgBotApi.pdb
+C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\Photon-NetStandard.dll
+C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\PhotonRealtime-NetStandard.dll
+C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.AssemblyInfo.cs
+C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\staticwebassets\AottgBotApi.StaticWebAssets.Manifest.cache
 C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\staticwebassets\AottgBotApi.StaticWebAssets.xml
 C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\AottgBotApi.styles.css
 C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.RazorTargetAssemblyInfo.cache
+C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.csproj.CopyComplete
 C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.dll
 C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.pdb
 C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.genruntimeconfig.cache
+C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.csprojAssemblyReference.cache

@@ -6,16 +6,16 @@ namespace AottgBotApi.Data
     public interface IAottgBotRepo
     {
         /// <summary>
-        /// Returns all the application commands.
+        /// Gets an object containing a list of valid regions.
         /// </summary>
-        /// <returns>A <see cref="IEnumerable{AottgCommand}"/>.</returns>
-        IEnumerable<TutorialCommand> GetValidRegions();
+        /// <returns>A <see cref="IEnumerable{string}"/> containing the region names.</returns>
+        AottgRegions GetValidRegions();
 
         /// <summary>
-        /// Gets the <see cref="TutorialCommand"/> by its integer Id.
+        /// Gets the server list for a given region.
         /// </summary>
-        /// <param name="id">The Id of the object.</param>
-        /// <returns>A <see cref="TutorialCommand"/> object.</returns>
-        TutorialCommand GetCommandById(int id);
+        /// <param name="region">The string name of the region</param>
+        /// <returns>A <see cref="IEnumerable{AottgRoomInfo}"/> containing the rooms under the region.</returns>
+        IEnumerable<AottgRoomInfo> GetServerList(string region);
     }
 }
