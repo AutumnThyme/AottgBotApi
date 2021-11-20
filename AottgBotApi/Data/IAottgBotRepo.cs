@@ -9,7 +9,7 @@ namespace AottgBotApi.Data
         /// Gets an object containing a list of valid regions.
         /// </summary>
         /// <returns>A <see cref="IEnumerable{string}"/> containing the region names.</returns>
-        AottgRegions GetValidRegions();
+        IEnumerable<string> GetValidRegions();
 
         /// <summary>
         /// Gets the server list for a given region.

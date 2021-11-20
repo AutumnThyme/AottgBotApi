@@ -10,6 +10,7 @@ namespace AottgBotApi.Data
     public class AottgBotRepo : IAottgBotRepo
     {
         private HostBotClient _reservedClient = null;
+        private object _reservedClientLock = new object();
 
         private readonly Dictionary<string, PhotonRegion> _regionMapping = new Dictionary<string, PhotonRegion>
         {
@@ -37,37 +38,41 @@ namespace AottgBotApi.Data
             if (!_regionMapping.ContainsKey(region))
             {
                 // bad request
-                return new List<AottgRoomInfo>();
+                return null;
             }
-            _reservedClient = new HostBotClient("reserved_client");
-            _reservedClient.Region = _regionMapping[region];
-            _reservedClient.ConnectToMasterAsync().Wait();
-
-            IReadOnlyList<RoomInfo> list = _reservedClient.RoomList;
-
-            IEnumerable<AottgRoomInfo> serverlist = list.Select<RoomInfo, AottgRoomInfo>(roominfo =>
+            lock(_reservedClientLock)
             {
-                var name = roominfo.Name.Split("`");
-                return new AottgRoomInfo
-                {
-                    Name=name[(int)RoomName.NAME],
-                    Map = name[(int)RoomName.MAP],
-                    Difficulty = name[(int)RoomName.DIFF],
-                    Time = int.Parse(name[(int)RoomName.TIME]),
-                    Daylight = name[(int)RoomName.DAYLIGHT],
-                    EncryptedPassword = name[(int)RoomName.PASSWORD],
-                    RandomNumber = int.Parse(name[(int)RoomName.RANDOM]),
-                };
-            });
-            _reservedClient.Disconnect();
-            _reservedClient = null;
+                _reservedClient = new HostBotClient("reserved_client");
+                _reservedClient.Region = _regionMapping[region];
+                _reservedClient.ConnectToMasterAsync().Wait();
 
-            return serverlist;
+                IReadOnlyList<RoomInfo> list = _reservedClient.RoomList;
+
+                IEnumerable<AottgRoomInfo> serverlist = list.Select<RoomInfo, AottgRoomInfo>(roominfo =>
+                {
+                    var name = roominfo.Name.Split("`");
+                    return new AottgRoomInfo
+                    {
+                        Name = name[(int)RoomName.NAME],
+                        Map = name[(int)RoomName.MAP],
+                        Difficulty = name[(int)RoomName.DIFF],
+                        Time = int.Parse(name[(int)RoomName.TIME]),
+                        Daylight = name[(int)RoomName.DAYLIGHT],
+                        EncryptedPassword = name[(int)RoomName.PASSWORD],
+                        RandomNumber = int.Parse(name[(int)RoomName.RANDOM]),
+                    };
+                });
+                _reservedClient.Disconnect();
+                _reservedClient = null;
+
+                return serverlist;
+            }
         }
 
-        public AottgRegions GetValidRegions()
+        public IEnumerable<string> GetValidRegions()
         {
-            throw new System.NotImplementedException();
+            IEnumerable<string> regions = _regionMapping.Select<KeyValuePair<string, PhotonRegion>, string>(e => e.Key);
+            return regions;
         }
     }
 }

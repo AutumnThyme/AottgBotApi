@@ -1,6 +1,7 @@
 using AottgBotApi.Data;
 using AottgBotApi.Models;
 using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Collections.Generic;
 
 namespace AottgBotApi.Controllers
@@ -19,10 +20,32 @@ namespace AottgBotApi.Controllers
         }
 
         // Get api/tutorial
-        [HttpGet("{region}")]
+        [HttpGet("serverlist/{region}")]
         public ActionResult<IEnumerable<TutorialCommand>> GetServerlist(string region)
         {
-            var serverlist = _repository.GetServerList(region);
+            try
+            {
+                var serverlist = _repository.GetServerList(region);
+
+                if (serverlist == null)
+                {
+                    return StatusCode(400, $"Could not fetch serverlist for region {region}.");
+                }
+
+                return Ok(serverlist);
+            }
+            catch(Exception e)
+            {
+                return StatusCode(500, e);
+            }
+            
+        }
+
+        // Get api/tutorial
+        [HttpGet("regions")]
+        public ActionResult<IEnumerable<TutorialCommand>> GetValidRegions()
+        {
+            var serverlist = _repository.GetValidRegions();
 
             return Ok(serverlist);
         }
