@@ -17,5 +17,13 @@ namespace AottgBotApi.Data
         /// <param name="region">The string name of the region</param>
         /// <returns>A <see cref="IEnumerable{AottgRoomInfo}"/> containing the rooms under the region.</returns>
         IEnumerable<AottgRoomInfo> GetServerList(string region);
+
+
+        /// <summary>
+        /// Purely for testing, using this could possibly cause an exception if HostBotClient throws an exception on failure to join a room.
+        /// </summary>
+        /// <param name="region"></param>
+        /// <returns></returns>
+        public IEnumerable<AottgRoomInfo> GetServerListSingleResource(string region);
     }
 }

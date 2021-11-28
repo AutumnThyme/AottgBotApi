@@ -42,6 +42,28 @@ namespace AottgBotApi.Controllers
         }
 
         // Get api/tutorial
+        [HttpGet("serverlistold/{region}")]
+        public ActionResult<IEnumerable<TutorialCommand>> GetServerlistOld(string region)
+        {
+            try
+            {
+                var serverlist = _repository.GetServerListSingleResource(region);
+
+                if (serverlist == null)
+                {
+                    return StatusCode(400, $"Could not fetch serverlist for region {region}.");
+                }
+
+                return Ok(serverlist);
+            }
+            catch (Exception e)
+            {
+                return StatusCode(500, e);
+            }
+
+        }
+
+        // Get api/tutorial
         [HttpGet("regions")]
         public ActionResult<IEnumerable<TutorialCommand>> GetValidRegions()
         {

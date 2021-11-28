@@ -10,7 +10,7 @@ namespace AottgBotLib
     /// <summary>
     /// Client for hosting rooms
     /// </summary>
-    public sealed class HostBotClient : BotClient 
+    public class HostBotClient : BotClient 
     {
         private HostInRoomCallbacks _roomHostCallbacks;
 
