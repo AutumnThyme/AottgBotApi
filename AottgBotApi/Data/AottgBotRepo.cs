@@ -99,19 +99,15 @@ namespace AottgBotApi.Data
                 // bad request
                 return null;
             }
-            Console.WriteLine("First");
             uint resource = 0;
             lock (_arrayReadLock)
             {
                 resource = _clientId;
                 _clientId = (_clientId + 1) % _MAX_CLIENTS;
             }
-            Console.WriteLine("Second");
             lock (_reservedClients[resource])
             {
-                Console.WriteLine("Third");
                 _reservedClients[resource].client = new HostBotClient("reserved_client");
-                Console.WriteLine("Fourth");
                 _reservedClients[resource].client.Region = _regionMapping[region];
                 _reservedClients[resource].client.ConnectToMasterAsync().Wait();
 
@@ -133,7 +129,6 @@ namespace AottgBotApi.Data
                 });
                 _reservedClients[resource].client.Disconnect();
                 _reservedClients[resource].client = null;
-                Console.WriteLine("Last");
                 return serverlist;
             }
         }

@@ -15,7 +15,6 @@ namespace AottgBotApi.AottgBotLib
 
         public ClientResource()
         {
-            Console.WriteLine("here");
             _resourceId = _globalId;
             _globalId++;
             client = null;
