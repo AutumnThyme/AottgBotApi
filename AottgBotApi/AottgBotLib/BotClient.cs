@@ -308,6 +308,8 @@ namespace AottgBotLib
             AddCallbackTarget(matchMakingCallbacks);
             AddCallbackTarget(inRoomCallbacks);
 
+            EnableLobbyStatistics = true;
+
             IsUsingPhotonServer = true;
             Region = PhotonRegion.Europe;
 

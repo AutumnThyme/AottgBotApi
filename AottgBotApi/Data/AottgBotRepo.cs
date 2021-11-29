@@ -83,6 +83,8 @@ namespace AottgBotApi.Data
                         Daylight = name[(int)RoomName.DAYLIGHT],
                         EncryptedPassword = name[(int)RoomName.PASSWORD],
                         RandomNumber = int.Parse(name[(int)RoomName.RANDOM]),
+                        PlayerCount = roominfo.PlayerCount,
+                        MaxPlayers = roominfo.MaxPlayers,
                     };
                 });
                 _reservedClient.Disconnect();
@@ -125,6 +127,8 @@ namespace AottgBotApi.Data
                         Daylight = name[(int)RoomName.DAYLIGHT],
                         EncryptedPassword = name[(int)RoomName.PASSWORD],
                         RandomNumber = int.Parse(name[(int)RoomName.RANDOM]),
+                        PlayerCount = roominfo.PlayerCount,
+                        MaxPlayers = roominfo.MaxPlayers,
                     };
                 });
                 _reservedClients[resource].client.Disconnect();
