@@ -11,5 +11,7 @@ namespace AottgBotApi.Models
         public string Daylight { get; set; }
         public string EncryptedPassword { get; set; }
         public int RandomNumber { get; set; }
+        public int PlayerCount { get; set; }
+        public int MaxPlayers { get; set; }
     }
 }

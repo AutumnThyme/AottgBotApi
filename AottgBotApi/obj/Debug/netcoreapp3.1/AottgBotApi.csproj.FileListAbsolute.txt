@@ -1,44 +1,67 @@
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\AottgBotApi.exe
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\AottgBotApi.deps.json
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\AottgBotApi.runtimeconfig.json
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\AottgBotApi.runtimeconfig.dev.json
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\AottgBotApi.dll
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\AottgBotApi.pdb
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\Photon-NetStandard.dll
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\PhotonRealtime-NetStandard.dll
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.AssemblyInfoInputs.cache
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.AssemblyInfo.cs
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.csproj.CoreCompileInputs.cache
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\staticwebassets\AottgBotApi.StaticWebAssets.Manifest.cache
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\staticwebassets\AottgBotApi.StaticWebAssets.xml
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\AottgBotApi.styles.css
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.RazorTargetAssemblyInfo.cache
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.csproj.CopyComplete
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.dll
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.pdb
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.genruntimeconfig.cache
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.csprojAssemblyReference.cache
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\AottgBotApi.exe
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\AottgBotApi.deps.json
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\AottgBotApi.runtimeconfig.json
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\AottgBotApi.runtimeconfig.dev.json
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\AottgBotApi.dll
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\AottgBotApi.pdb
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\Photon-NetStandard.dll
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\PhotonRealtime-NetStandard.dll
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.csprojAssemblyReference.cache
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\staticwebassets\AottgBotApi.StaticWebAssets.Manifest.cache
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\staticwebassets\AottgBotApi.StaticWebAssets.xml
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.AssemblyInfoInputs.cache
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.AssemblyInfo.cs
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.RazorTargetAssemblyInfo.cache
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.csproj.CopyComplete
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.dll
-C:\Users\Michael's pc\Desktop\MirynW Web\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.pdb
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/AottgBotApi.exe
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/AottgBotApi.deps.json
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/AottgBotApi.runtimeconfig.json
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/AottgBotApi.runtimeconfig.dev.json
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/AottgBotApi.dll
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/AottgBotApi.pdb
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/Photon-NetStandard.dll
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/PhotonRealtime-NetStandard.dll
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.AssemblyInfoInputs.cache
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.AssemblyInfo.cs
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.csproj.CoreCompileInputs.cache
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/staticwebassets/AottgBotApi.StaticWebAssets.Manifest.cache
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/staticwebassets/AottgBotApi.StaticWebAssets.xml
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/scopedcss/bundle/AottgBotApi.styles.css
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.RazorTargetAssemblyInfo.cache
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.csproj.CopyComplete
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.dll
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.pdb
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.genruntimeconfig.cache
+C:/Users/Michael/source/repos/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.csprojAssemblyReference.cache
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/AottgBotApi.exe
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/AottgBotApi.deps.json
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/AottgBotApi.runtimeconfig.json
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/AottgBotApi.runtimeconfig.dev.json
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/AottgBotApi.dll
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/AottgBotApi.pdb
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/Photon-NetStandard.dll
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/PhotonRealtime-NetStandard.dll
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.csprojAssemblyReference.cache
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/staticwebassets/AottgBotApi.StaticWebAssets.Manifest.cache
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/staticwebassets/AottgBotApi.StaticWebAssets.xml
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.AssemblyInfoInputs.cache
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.AssemblyInfo.cs
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.RazorTargetAssemblyInfo.cache
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.csproj.CopyComplete
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.dll
+C:/Users/Michael's pc/Desktop/MirynW Web/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.pdb
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/AottgBotApi.deps.json
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/AottgBotApi.runtimeconfig.json
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/AottgBotApi.runtimeconfig.dev.json
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/AottgBotApi.dll
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/AottgBotApi.pdb
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/Photon-NetStandard.dll
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/bin/Debug/netcoreapp3.1/PhotonRealtime-NetStandard.dll
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.csproj.AssemblyReference.cache
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.AssemblyInfoInputs.cache
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.AssemblyInfo.cs
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.csproj.CoreCompileInputs.cache
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/staticwebassets/AottgBotApi.StaticWebAssets.Manifest.cache
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/staticwebassets/AottgBotApi.StaticWebAssets.xml
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/scopedcss/bundle/AottgBotApi.styles.css
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.RazorTargetAssemblyInfo.cache
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.csproj.CopyComplete
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.dll
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.pdb
+/Users/nickersm/Documents/GitHub/AottgBotApi/AottgBotApi/obj/Debug/netcoreapp3.1/AottgBotApi.genruntimeconfig.cache
