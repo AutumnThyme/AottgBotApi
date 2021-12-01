@@ -26,6 +26,13 @@ namespace AottgBotApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(options => options.AddPolicy("ApiCorsPolicy", builder =>
+            {
+                builder.WithOrigins("http://localhost:4200").AllowAnyMethod().AllowAnyHeader();
+            }));
+
+            services.AddMvc();
+
             services.AddControllers();
 
             services.AddScoped<ITutorialCommandRepo, MockTutorialCommandRepo>();
@@ -44,9 +51,13 @@ namespace AottgBotApi
 
             app.UseRouting();
 
-            app.UseAuthorization();
+            app.UseCors(builder => builder
+                .AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader());
+            //app.UseMvc();
 
-            app.UseCors();
+            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
