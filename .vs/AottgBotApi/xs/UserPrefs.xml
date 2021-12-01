@@ -1,25 +1,21 @@
 ﻿<Properties StartupConfiguration="{26BB4CFF-92F6-43A0-B347-317617D37F29}|Default">
   <MonoDevelop.Ide.ItemProperties.AottgBotApi PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AottgBotApi/Data/AottgBotRepo.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AottgBotApi/.gitignore">
     <Files>
       <File FileName="AottgBotApi/AottgBotLib/Internal/LobbyCallbacks.cs" Line="1" Column="1" />
       <File FileName="AottgBotApi/AottgBotLib/Handlers/RPCHandler.cs" Line="1" Column="1" />
-      <File FileName="AottgBotApi/AottgBotLib/BotClient.cs" Line="311" Column="42" />
-      <File FileName="AottgBotApi/Data/AottgBotRepo.cs" Line="86" Column="39" />
+      <File FileName="AottgBotApi/AottgBotLib/BotClient.cs" Line="299" Column="16" />
+      <File FileName="AottgBotApi/Data/AottgBotRepo.cs" Line="119" Column="18" />
+      <File FileName="AottgBotApi/.gitignore" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AottgBotApi" expanded="True">
             <Node name="AottgBotApi" expanded="True">
-              <Node name="AottgBotLib" expanded="True">
-                <Node name="Handlers" expanded="True" />
-                <Node name="Internal" expanded="True" />
-              </Node>
-              <Node name="Data" expanded="True">
-                <Node name="AottgBotRepo.cs" selected="True" />
-              </Node>
+              <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
+              <Node name=".gitignore" selected="True" />
             </Node>
           </Node>
         </State>
