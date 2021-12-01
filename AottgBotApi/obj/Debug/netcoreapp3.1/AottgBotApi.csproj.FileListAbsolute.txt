@@ -52,7 +52,6 @@ C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\Ao
 C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\AottgBotApi.pdb
 C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\Photon-NetStandard.dll
 C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\bin\Debug\netcoreapp3.1\PhotonRealtime-NetStandard.dll
-C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.csprojAssemblyReference.cache
 C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.AssemblyInfoInputs.cache
 C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.AssemblyInfo.cs
 C:\Users\Michael\source\repos\AottgBotApi\AottgBotApi\obj\Debug\netcoreapp3.1\AottgBotApi.csproj.CoreCompileInputs.cache
