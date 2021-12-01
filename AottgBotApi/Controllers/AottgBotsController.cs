@@ -1,5 +1,6 @@
 using AottgBotApi.Data;
 using AottgBotApi.Models;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -21,6 +22,7 @@ namespace AottgBotApi.Controllers
 
         // Get api/tutorial
         [HttpGet("serverlist/{region}")]
+        [EnableCors()]
         public ActionResult<IEnumerable<TutorialCommand>> GetServerlist(string region)
         {
             try
@@ -43,6 +45,7 @@ namespace AottgBotApi.Controllers
 
         // Get api/tutorial
         [HttpGet("serverlistold/{region}")]
+        [EnableCors()]
         public ActionResult<IEnumerable<TutorialCommand>> GetServerlistOld(string region)
         {
             try
@@ -65,6 +68,7 @@ namespace AottgBotApi.Controllers
 
         // Get api/tutorial
         [HttpGet("regions")]
+        [EnableCors()]
         public ActionResult<IEnumerable<TutorialCommand>> GetValidRegions()
         {
             var serverlist = _repository.GetValidRegions();
