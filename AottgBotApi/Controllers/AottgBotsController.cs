@@ -34,8 +34,6 @@ namespace AottgBotApi.Controllers
                     return StatusCode(400, $"Could not fetch serverlist for region {region}.");
                 }
 
-                Console.WriteLine("Requested");
-
                 return Ok(serverlist);
             }
             catch(Exception e)
